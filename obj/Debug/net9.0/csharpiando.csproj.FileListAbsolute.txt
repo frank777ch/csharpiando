@@ -1,0 +1,15 @@
+/home/frank/Documentos/GitHub/csharpiando/bin/Debug/net9.0/csharpiando
+/home/frank/Documentos/GitHub/csharpiando/bin/Debug/net9.0/csharpiando.deps.json
+/home/frank/Documentos/GitHub/csharpiando/bin/Debug/net9.0/csharpiando.runtimeconfig.json
+/home/frank/Documentos/GitHub/csharpiando/bin/Debug/net9.0/csharpiando.dll
+/home/frank/Documentos/GitHub/csharpiando/bin/Debug/net9.0/csharpiando.pdb
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/csharpiando.GeneratedMSBuildEditorConfig.editorconfig
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/csharpiando.AssemblyInfoInputs.cache
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/csharpiando.AssemblyInfo.cs
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/csharpiando.csproj.CoreCompileInputs.cache
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/csharpiando.sourcelink.json
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/csharpiando.dll
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/refint/csharpiando.dll
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/csharpiando.pdb
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/csharpiando.genruntimeconfig.cache
+/home/frank/Documentos/GitHub/csharpiando/obj/Debug/net9.0/ref/csharpiando.dll
